@@ -63,6 +63,9 @@ In summary, I learned how to provision, configure, and manage core Azure cloud r
    ```
 ## 2. Medallion Architecture and ETL Pipelines
 
+> [!WARNING]
+> Visual assets in this repository are optimized for dark theme. Dark theme is recommended.
+
 ## There are 4 layers in this project:
 
 ### Landing Layer(Raw Files):
